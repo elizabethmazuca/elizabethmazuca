@@ -1,6 +1,6 @@
 <h1 align="center">Hi I'm Elizabeth! But my friends call me Elzie! 🐣</h1>
 <h3 align="center">I'm a cs student on the weekdays. Boba barista weekends. </h3>
-<img align="right" alt="catcatcode" width="300" src="https://giphy.com/stickers/cats-computer-laptop-YYQ6sw8jt2HRxX4uVi">
+<img align="right" alt="catcatcode" width="300" src="https://raw.githubusercontent.com/elizabethmazuca/elizabethmazuca/main/cattype.gif">
 
 
 
