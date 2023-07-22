@@ -1,5 +1,5 @@
 <h1 align="center">Hi I'm Elizabeth, but my friends call me Elzie! 🐣</h1>
-<h3 align="center">I'm a cs student on the weekdays. Boba barista weekends. Aspiring web developer! </h3>
+<h3 align="center">I'm a cs student on the weekdays. Boba barista weekends. Aspiring software engineer! </h3>
 <img align="right" alt="catcatcode" width="300" src="https://raw.githubusercontent.com/elizabethmazuca/elizabethmazuca/main/cattype.gif">
 
 
